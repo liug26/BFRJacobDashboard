@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>src/components/AlertRectangle.qml</file>
+        <file>src/components/BatteryVoltage.qml</file>
+        <file>src/components/CoolantTemp.qml</file>
+        <file>src/components/FpsCounter.qml</file>
+        <file>src/components/GearComponent.qml</file>
+        <file>src/components/RPMSliderComponent.qml</file>
+        <file>src/Layout.qml</file>
+        <file>src/code/canhandler.cpp</file>
+        <file>src/code/canhandler.h</file>
+        <file>src/components/AbstractImageTextComponent.qml</file>
+        <file>src/components/BrakeRatio.qml</file>
+        <file>src/components/RPMSliderLabels.qml</file>
+        <file>src/components/SingleRPMSliderLabel.qml</file>
+        <file>src/components/BlackOnWhiteOutlinedNumber.qml</file>
+        <file>src/components/EmptyComponent.qml</file>
+        <file>src/components/CanDebugInfo.qml</file>
+        <file>src/components/MPHDisplayComponent.qml</file>
+        <file>src/components/AFRDisplayComponent.qml</file>
+    </qresource>
+    <qresource prefix="/src"/>
+</RCC>

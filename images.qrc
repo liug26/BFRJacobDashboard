@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/media">
+        <file alias="battery">src/media/battery.svg</file>
+        <file alias="brake">src/media/brake.png</file>
+        <file alias="coolant">src/media/coolant.svg</file>
+        <file alias="outlined_digits/eight">src/media/outlined_digits/eight.png</file>
+        <file alias="outlined_digits/five">src/media/outlined_digits/five.png</file>
+        <file alias="outlined_digits/four">src/media/outlined_digits/four.png</file>
+        <file alias="outlined_digits/nine">src/media/outlined_digits/nine.png</file>
+        <file alias="outlined_digits/one">src/media/outlined_digits/one.png</file>
+        <file alias="outlined_digits/seven">src/media/outlined_digits/seven.png</file>
+        <file alias="outlined_digits/six">src/media/outlined_digits/six.png</file>
+        <file alias="outlined_digits/three">src/media/outlined_digits/three.png</file>
+        <file alias="outlined_digits/two">src/media/outlined_digits/two.png</file>
+        <file alias="outlined_digits/zero">src/media/outlined_digits/zero.png</file>
+    </qresource>
+</RCC>
